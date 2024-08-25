@@ -32,7 +32,9 @@ __Prerequisites__: Chef Archetype
 
 You are able to handle cooking for large occasions provided you have access to ingrediants (and maybe help at the DMs discretion.)
 
-When you provide food you can roll Cooking Lore instead of Diplomacy to Make and Impression and function as if you have the [Group Impression](https://2e.aonprd.com/Feats.aspx?ID=5155) feat.
+When you provide food you can roll Cooking Lore instead of Diplomacy to [Make and Impression](https://3e.aonprd.com/Actions.aspx?ID=2392) and function as if you have the [Group Impression](https://2e.aonprd.com/Feats.aspx?ID=5155) feat.
+
+If you use diplomacy to [make a request](https://2e.aonprd.com/Actions.aspx?ID=2393) within 24 hours after successfully providing food to an individual you may apply a +1 bonus. You also count as [prepared](https://2e.aonprd.com/Rules.aspx?ID=2552&Redirected=1) to [aid](https://2e.aonprd.com/Actions.aspx?ID=2292) you associate to  [make a request](https://2e.aonprd.com/Actions.aspx?ID=2393) to an individual you prepared food for within 24 hours, and count your Cooking Lore role for the aid check with no chance of failure.
 
 If you use the [Cook Special Meal](https://2e.aonprd.com/Actions.aspx?ID=1474) activty during your daily preperations you can feed up to 5 people with one meal.
 
