@@ -1,5 +1,20 @@
 # Chef Archetype Description
 
+Chefs come from all types of upbrindings and have different motivations but they have one thing in common, the ability to stand out from the rest when cooking food.
+
+| Feat | Level | Summary |
+| --- | --- | --- |
+| [Chef Dedication](#chef-dedication) | 2 | Gain basic alchemy benefits for creating alchemical foods. |
+| [Caterer](#caterer) | 4 | Handle cooking for large occasions and make group impressions. |
+| [Personal Chef](#personal-chef) | 4 | Recall knowledge about a person's favorite meal and soothe mental anguish. |
+| [If Can't Take the Heat, Get Out Of the Kitchen](#if-cant-take-the-heat-get-out-of-the-kitchen) | 4 | You've developed tolerance for fire|
+| [Mixologist](#mixologist) | 6 | Gain insights into creating beverages and elixirs. |
+| [The Secret Ingredient is Resent](#the-secret-ingredieant-is-resent) | 6 | Learn to create ingestible poisons. |
+| [Take It Up A Notch](#take-it-up-a-notch) | 6 | Add special benefits to your creations using endemic herbs. |
+| [Improviser](#improviser) | 10 | Gain the ability to improvise with ingredients. |
+| [Sous-chef](#sous-chef) | 10 | Become a master in Cooking Lore and gain combat benefits. |
+| [Head Chef](#head-chef) | 18 | Become legendary in Cooking Lore. |
+
 ## Chef Dedication
 
 __Level__: 2
@@ -38,7 +53,43 @@ If you use diplomacy to [make a request](https://2e.aonprd.com/Actions.aspx?ID=2
 
 If you use the [Cook Special Meal](https://2e.aonprd.com/Actions.aspx?ID=1474) activty during your daily preperations you can feed up to 5 people with one meal.
 
-## Mixolgist
+## Personal Chef
+
+__Level__: 4
+
+__Traits__: Archetype, Dedication
+
+__Prerequisites__: Chef Archetype
+
+---
+
+While preparing Special Campsite meals, you can use Cooking Lore agaist DC 15 to recall knowledge about a person and augment any meal so that it yeilds them favorite meal bonus.
+
+You gain the Evoke Comfort Food Nostalga ability.
+
+> ### Evoke Comfort Food Nostalga
+>
+> __actions__: 1
+>
+> __trigger__: a person you have cooked for is affected by a mental attack.
+>
+> Using your knowledge of the reciptiants tastes and food history, you are able to quickly assemble some ingreadiantes on your person that smell like a comfort food from their lives. This can evoke the Proust Phenomanom and soothe some of their mental anguish. You ally benifits as if affected by a [Soothing Words](https://2e.aonprd.com/Spells.aspx?ID=1800). They become immune to this effect for the duration of the spell for 10 minutes.
+
+## If Can't Take the Heat, Get Out Of the Kitchen
+
+__Level__: 4
+
+__Traits__: Archetype, Dedication
+
+__Prerequisites__: Chef Archetype
+
+---
+
+Your dedication to perfection has trained you to work through tough circumstances.
+
+You gain [Fire Resistance](https://2e.aonprd.com/Feats.aspx?ID=2973) feat.
+
+## Mixologist
 
 __Level__: 6
 
@@ -54,32 +105,7 @@ You can now use Cooking Lore as Craft Alchemy to create elixers. You can use adv
 
 You can roll Cooking Lore DC 15 to get a +2 bonus to saves against addiction and poison effects related to beverages.
 
-## Personal Chef
-
-__Level__: 2
-
-__Traits__: Archetype, Dedication
-
-__Prerequisites__: Chef Archetype
-
----
-
-You can use cooking lore to recall knowledge and make a meal for one person as favorite meal. 
-
-When you give a person food it works as a sooth spell to stop some mind condiditno 
-[TODO]
-
-## Improviser
-
-__Level__: 2
-
-__Traits__: Archetype, Dedication
-
-__Prerequisites__: Chef Archetype
-
----
-
-## Sous-chef
+## The Secret Ingredieant is Resent
 
 __Level__: 6
 
@@ -89,19 +115,13 @@ __Prerequisites__: Chef Archetype
 
 ---
 
-You becmoe a master in Cooking Lore.
+You have learned how to indetectably make food have consequences.
 
-## The Secret Ingredieant is Resent
+You gain access to create [Alchemical Poisons](https://2e.aonprd.com/Equipment.aspx?Category=6&Subcategory=9&include-traits=ingested&sort=level-asc+price-asc+name-asc&display=table&columns=pfs+source+rarity+trait+level+price+saving_throw+onset+duration+stage+spoilers) with the ingested trait.
 
-__Level__: 2
+You are able to insert ingreadints (such as poison) with out detection. You can substitute Cooking Lore Skill for Stealth when trying to hide ingrediants in food.
 
-__Traits__: Archetype, Dedication
-
-__Prerequisites__: Chef Archetype
-
----
-
-Ingestable poisons
+You add [Tasters Folly](https://2e.aonprd.com/Equipment.aspx?ID=2017) and [Belladonna](https://2e.aonprd.com/Equipment.aspx?ID=105) to your recipie book.
 
 ## Take It Up A Notch
 
@@ -124,15 +144,37 @@ During your daily preparations, you find fresh herbs endemic to your location. U
 - Swamp Remove one source of persistent bleed damage.
 - Underground Gain a +1 circumstance bonus to Perception.
 
-## Master Baker
+## Sous-chef
 
-__Level__: 2
+__Level__:  10
 
 __Traits__: Archetype, Dedication
 
 __Prerequisites__: Chef Archetype
 
 ---
+
+You have demonstrated mastery of cooking with both recipe and tools.
+
+You become a master in Cooking Lore.
+
+You gain the [quick draw](https://2e.aonprd.com/Feats.aspx?ID=4869) feat when you are wielding a knife or a weapons with cooking trait. When you critically succeed at an attack roll with a weapon from the knives group or having the cooking trait you apply the critical specialization effect.
+
+## Improviser
+
+__Level__: 10
+
+__Traits__: Archetype, Dedication
+
+__Prerequisites__: Chef Archetype
+
+---
+
+You have mastered cooking with unxpected ingrediants. Your culinary experiments can yeild extream results.
+
+When preparing campsight recipies, you can substitute 4 basic ingreadiants for 1 special ingreadiant, and vise versa.
+
+You gain the [Quick Alchemy](https://2e.aonprd.com/Actions.aspx?ID=2) action and the [Unstable Concoction](https://2e.aonprd.com/Feats.aspx?ID=1600) feat.
 
 ## Head Chef
 
@@ -145,3 +187,5 @@ __Prerequisites__: Chef Archetype
 ---
 
 You become Legendary in Cooking Lore.
+
+Your advanced alchemy level increases to half your level plus 8.
