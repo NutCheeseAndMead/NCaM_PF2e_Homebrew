@@ -8,8 +8,8 @@ This product is licensed under the ORC License located at the Library of Congres
 
 This product is based on the following Licensed Material:
 
-    [Title of Work], [Copyright Notice], [Author Credit Information].
-    [Title of Additional Work], [Copyright Notice], [Author Credit Information], [Etc.].
+- [Advanced Player's Guide], [Copyright  7/30/2020], [Paizo](https://2e.aonprd.com/Sources.aspx?ID=39)
+- Other things found on Archives of Nethys
 
 If you use our Licensed Material in your own published works, please credit us as follows:
 
