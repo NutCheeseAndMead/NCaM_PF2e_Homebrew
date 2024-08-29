@@ -1,6 +1,3 @@
-# PF2E_Archetype_Chef
+# Nut Cheese and Mead
 
-A chef archetype for PF2e
-
-[Archetype Description](./ArchetypeDescription.md)
-[Campsight Recipies](./CampsiteRecipies.md)
+Welcome to our homebrew rules repository. These are rule we play by but your millage may vary. Feel free to fork the repository as long as you distribute according to the [license](./LICENSE.md)
