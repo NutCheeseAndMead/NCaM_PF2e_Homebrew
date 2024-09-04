@@ -1,6 +1,6 @@
 # Chef Dedication Feat Description
 
-Chefs come from all types of upbrindings and have different motivations but they have one thing in common, the ability to stand out from the rest when cooking food.
+Chefs can come from any upbringing and have different motivations, but they have one thing in common, the ability to stand out from the rest when cooking food.
 
 | Feat | Level | Summary |
 | --- | --- | --- |
@@ -8,7 +8,7 @@ Chefs come from all types of upbrindings and have different motivations but they
 | [Caterer](#caterer) | 4 | Handle cooking for large occasions and make group impressions. |
 | [Personal Chef](#personal-chef) | 4 | Recall knowledge about a person's favorite meal and soothe mental anguish. |
 | [Improviser](#improviser) | 4 | Gain the ability to improvise with ingredients. |
-| [If You Can't Take the Heat, Get Out of the Kitchen](#if-cant-take-the-heat-get-out-of-the-kitchen) | 4 | You've developed tolerance for fire|
+| [If You Can't Take the Heat, Get Out of the Kitchen](#if-you-cant-take-the-heat-get-out-of-the-kitchen) | 4 | You've developed tolerance for fire|
 | [Mixologist](#mixologist) | 6 | Gain insights into creating beverages and elixirs. |
 | [The Secret Ingredient is Resent](#the-secret-ingredient-is-resent) | 6 | Learn to create ingested poisons. |
 | [Local Cuisine](#local-cuisine) | 6 | Add special benefits to your creations using endemic herbs. |
@@ -75,7 +75,7 @@ You gain the Evoke Comfort Food Nostalgia ability.
 >
 > Using your knowledge of the recipients tastes and food history, you are able to quickly assemble some ingredients on your person that smell like a comfort food from their lives. This can evoke the Proust Phenomenon and soothe some of their mental anguish. Your ally benefits as if affected by [Soothing Words](https://2e.aonprd.com/Spells.aspx?ID=1800). They become immune to this effect for the duration of the spell for 10 minutes.
 
-## If Can't Take the Heat, Get Out Of the Kitchen
+## If You Can't Take the Heat, Get Out Of the Kitchen
 
 __Level__: 4
 
@@ -166,7 +166,7 @@ __Level__:  10
 
 __Traits__: Archetype, Dedication
 
-__Prerequisites__: Chef Dedication Feat
+__Prerequisites__: Chef Dedication Feat, Expert Cooking Lore
 
 ---
 
