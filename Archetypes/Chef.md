@@ -7,11 +7,11 @@ Chefs come from all types of upbrindings and have different motivations but they
 | [Chef Dedication](#chef-dedication) | 2 | Gain basic alchemy benefits for creating alchemical foods. |
 | [Caterer](#caterer) | 4 | Handle cooking for large occasions and make group impressions. |
 | [Personal Chef](#personal-chef) | 4 | Recall knowledge about a person's favorite meal and soothe mental anguish. |
-| [If Can't Take the Heat, Get Out Of the Kitchen](#if-cant-take-the-heat-get-out-of-the-kitchen) | 4 | You've developed tolerance for fire|
+| [Improviser](#improviser) | 4 | Gain the ability to improvise with ingredients. |
+| [If You Can't Take the Heat, Get Out of the Kitchen](#if-cant-take-the-heat-get-out-of-the-kitchen) | 4 | You've developed tolerance for fire|
 | [Mixologist](#mixologist) | 6 | Gain insights into creating beverages and elixirs. |
-| [The Secret Ingredient is Resent](#the-secret-ingredieant-is-resent) | 6 | Learn to create ingestible poisons. |
-| [Take It Up A Notch](#take-it-up-a-notch) | 6 | Add special benefits to your creations using endemic herbs. |
-| [Improviser](#improviser) | 10 | Gain the ability to improvise with ingredients. |
+| [The Secret Ingredient is Resent](#the-secret-ingredient-is-resent) | 6 | Learn to create ingested poisons. |
+| [Local Cuisine](#local-cuisine) | 6 | Add special benefits to your creations using endemic herbs. |
 | [Sous-chef](#sous-chef) | 10 | Become a master in Cooking Lore and gain combat benefits. |
 | [Head Chef](#head-chef) | 18 | Become legendary in Cooking Lore. |
 
@@ -99,7 +99,7 @@ __Prerequisites__: Chef Dedication Feat
 
 ---
 
-You have mastered cooking with unexpected ingredients. Your culinary experiments can yield extreme results.
+You have mastered cooking with unexpected ingredients.
 
 When preparing camp sight recipes, you can substitute 4 basic ingredients for 1 special ingredient, and vise versa.
 
@@ -131,7 +131,7 @@ __Prerequisites__: Chef Dedication Feat
 
 ---
 
-You have learned how to undetectably make food have consequences.
+You have learned how to indetectably make food have consequences.
 
 You gain access to create [Alchemical Poisons](https://2e.aonprd.com/Equipment.aspx?Category=6&Subcategory=9&include-traits=ingested&sort=level-asc+price-asc+name-asc&display=table&columns=pfs+source+rarity+trait+level+price+saving_throw+onset+duration+stage+spoilers) with the ingested trait.
 
